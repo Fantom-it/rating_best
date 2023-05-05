@@ -5,15 +5,16 @@
 .form__input-main {
     margin-top: 23px;
     margin-left: 1390px;
-    width: 334px;
+    width: 370px;
     height: 24px;
     border: none;
     outline: none;
     color: #000000;
     background: #D0D0D0;
     border-radius: 10px;
-    padding: 18px 18px;
+    padding: 30px 18px;
     font-size: 18px;
+    font-weight: 600;
 }
 
 .form__button-main {
